@@ -50,7 +50,7 @@ The video feed displays:
 ## Run the Project
 
 ```bash
-git clone https://github.com/asutoshp10/concentration_tracker.git
+git clone (githublink)
 cd concentration_tracker
 pip install -r requirements.txt
 python concentration_tracker.py
